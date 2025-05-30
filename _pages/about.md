@@ -11,4 +11,4 @@ I'm a senior student at [Beijing University of Posts and Telecommunications](htt
 
 My work focuses on **large language models**, currently interning at **WXG** (微信) for LLM application research. Previously at **TeleAI** (中国电信人工智能研究院), I specialized in post-training algorithms and reasoning model enhancement.
 
-[Email](mailto:xujian.huang@qq.com) / [GitHub](https://github.com/mistyrainH) / [Wechat](mistyrainH.github.io/image/wechat.png)
+[Email](mailto:xujian.huang@qq.com) / [GitHub](https://github.com/mistyrainH) / [Wechat](../images/wechat.png)
