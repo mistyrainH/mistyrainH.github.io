@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "personal.png"
   name             : "Allanhuang"
   pronouns         : # example: "she/her"  
-  bio              : "得之坦然，失之淡然，争其必然，顺其自然"
+  bio              : "得之坦然，失之淡然        争其必然，顺其自然"
   location         : "China"
   employer         : 
   uri              : # URL
